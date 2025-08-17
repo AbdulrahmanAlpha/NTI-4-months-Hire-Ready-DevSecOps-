@@ -184,3 +184,6 @@ Instead of logging in as root, DevOps engineers use `sudo` to perform administra
 *   `:(){ :|:& };:`: A fork bomb that can crash your system.
 
 ![warnnig](https://previews.jumpshare.com/thumb/815bc01b796dd6f1733c957c5af19493fceefcef4be5e7981a8861578046bacf8e066da91bb81a86541a50cd87332b42fbce6ce03d74e911477b57d5dba6c1a6a7afcbe9b269bb6d22e3a3ea6ed60ce1)
+
+
+> Created with Love by: Abdulrahman Ahmad (aka Mr. Alpha)
